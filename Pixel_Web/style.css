@@ -1,0 +1,41 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+  background-image: url("8-bit-artwork-house-island-in-middle-of-water-8v.png");
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+}
+
+.p
+{
+  margin-top: 66px !important;
+  margin-left: 45px !important;
+}
+.myImage {
+  background-image: url("8-bit-artwork-house-island-in-middle-of-water-8v.png");
+}
+.sep
+{
+  border-top-width: 4px;
+  border-top-style: solid;
+  margin-top: 104px;
+  border-left-width: 0px;
+  border-left-style: solid;
+  margin-left: 103px;
+  margin-right: 103px;
+}
